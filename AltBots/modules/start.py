@@ -12,7 +12,7 @@ START_BUTTON = [
         Button.url("• 𝙵𝙴𝙳𝙴𝚁𝙰𝚃𝙸𝙾𝙽 •", "https://t.me/Devil_fed_Network")
     ],
     [
-        Button.url("• ʀᴇᴘᴏ •", "https://github.com/ItZxSTaR/XBOTS")
+        Button.url("• ʀᴇᴘᴏ •", "https://telegra.ph/file/33c473ea80fa6b496cb43.mp4")
     ]
 ]
 
