@@ -8,8 +8,8 @@ START_BUTTON = [
         Button.inline("• ᴄᴏᴍᴍᴀɴᴅs •", data="help_back")
     ],
     [
-        Button.url("• About •", "https://t.me/About_Devil_XD"),
-        Button.url("• 𝙵𝙴𝙳𝙴𝚁𝙰𝚃𝙸𝙾𝙽 •", "https://t.me/Devil_fed_Network")
+        Button.url("• Feelings •", "https://t.me/feelings_for_you_baby"),
+        Button.url("• 𝙵𝙴𝙳𝙴𝚁𝙰𝚃𝙸𝙾𝙽 •", "https://t.me/DEVIL_OFFICIAL_NETWORK")
     ],
     [
         Button.url("• ʀᴇᴘᴏ •", "https://telegra.ph/file/33c473ea80fa6b496cb43.mp4")
